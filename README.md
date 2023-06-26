@@ -1,3 +1,5 @@
+check https://github.com/pbetti-sie/week2-devops for optional parts*****************
+
 # Intro to DevOps - Week 2 Project Starter Code
 
 # Goal
